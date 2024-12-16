@@ -47,11 +47,11 @@ python main.py --al_method=leadq --model=cnn4conv --dataset=svhn --gpu=0 --n_arr
 
 If you use this code in your research or find it helpful, please consider citing our paper:
 ```
-@article{sun2024learn,
+@article{sun2025learn,
   title={Learn How to Query from Unlabeled Data Streams in Federated Learning},
   author={Sun, Yuchang and Li, Xinran and Lin, Tao and Zhang, Jun},
   booktitle={accepted by The 39th Annual AAAI Conference on Artificial Intelligence (AAAI)},
-  year={2024}
+  year={2025}
 }
 ```
 
